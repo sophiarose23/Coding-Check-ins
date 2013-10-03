@@ -1,0 +1,74 @@
+<!DOCTYPE HTML><html>
+
+
+<head> Amanda's Coding Check In Movie List
+ 
+ <meta charset="utf-8">
+   <title>basicTable.html</title>
+    <meta charset = "UTF-8" />
+    <style type = "text/css">
+    table, td, th {
+      border: 1px solid black;
+    } 
+    </style>
+</head>
+
+
+<body>
+
+<h1>My Favorite Movies</h1>
+<table>
+<tr>
+	<th>Movie</th>
+	<th>Distributor</th>
+	<th>Release Date</th>
+	<th>Gross</th>
+	<th>Source</th>
+</tr>
+
+<tr>
+	<td><a href="http://www.youtube.com/watch?v=8wqVHjK2bQs">   Donnie Darko</a></td>
+	<td>Pandora Cinema</td>
+	<td>10/26/2001</td>
+	<td>1,270,522</td>
+	<td>Box Office Mojo</td>
+</tr>
+
+<tr>
+	<td><a href="http://www.youtube.com/watch?v=_d0hEzXrWT4"> Fear and Loathing in Las Vegas </a></td>
+	<td>Universal</td>
+	<td>5/22/1998</td>
+	<td>10,680,275</td>
+	<td>Box Office Mojo</td>
+</tr>
+
+<tr>
+	<td><a href="http://www.youtube.com/watch?v=rNDfBcIdf4k">Harry Potter and the Goblet of Fire</a></td>
+	<td>Warner Brothers</td>
+	<td>11/18/2005</td>
+	<td>290,013,036</td>
+	<td>Box Office Mojo</td>
+</tr>
+
+<tr>
+	<td><a href="http://www.youtube.com/watch?v=7N8wkVA4_8s">Moonrise Kingdom</a></td>
+	<td>Focus</td>
+	<td>5/25/2012</td>
+	<td>45,512,466</td>
+	<td>Box Office Mojo</td>
+</tr>
+
+<tr>
+	<td><a href="http://www.youtube.com/watch?v=6az9wGfeSgM">Spirited Away</a></td>
+	<td>Buena Vista</td>
+	<td>9/20/2002</td>
+	<td>10,055,859</td>
+	<td>Box Office Mojo</td>
+
+
+</table>
+</body>
+</html>
+
+
+
