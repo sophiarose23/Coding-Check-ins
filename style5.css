@@ -1,0 +1,65 @@
+
+
+
+#metadata {
+	font-size: xx-small;
+	font-family: Arial;
+	color: white;
+	*important the link
+}
+
+#title{ 
+font-size: x-large;
+font-family: Verdana;
+
+}
+
+#pre-book{
+	font-size: x-small;
+	font-style: italic;
+	font-family: Arial;
+}
+
+#contents{
+	font-size: small;
+	font-family: Courier,Monospace;
+	color: #1B0A2A;
+	background-color: #A9BCF5;
+}
+
+#preface{
+	font-size:small;
+	font-family: Courier, Monospace;
+	color:#0B2161;
+	background-color: white;
+}
+
+#thestory{
+	font-size: medium;
+	font-family:'Libre Baskerville', serif;
+	background-color: white;
+	color: #0B243B;
+}
+
+#Glossary{
+	font-size:x-small;
+	font-family: 'Fenix', serif;
+	background-color: white;
+	color: gray;
+}
+
+#endcredits{
+	font-size: x-small;
+	font-family: Courier;
+	background-color: white;
+
+}
+
+#license{
+	font-size: xx-small;
+	font-family: sans-serif;
+	background-color: white;
+	color: black;
+}
+
+#endcredits{}
