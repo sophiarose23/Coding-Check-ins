@@ -1,0 +1,71 @@
+body
+
+{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	font-family:sans-serif;
+
+	
+}
+
+
+#container{
+	width: 8000px;
+	margin: 0 auto 0 auto;
+
+}
+
+section{
+	margin-top: 1.5%
+	margin-bottom:1.5%;
+	background-color:#ffc673; 
+	padding: 0% 0 2% 0;
+}
+
+header{
+	font-family: 'Bilbo Swash Caps', cursive;
+	font-size:125%;
+	font-weight: bold;
+	color:#ae2c4c; 
+	background-color:#ffc673;  
+	margin-top: 2%;
+	margin-bottom: 2%;
+	padding:0% 0 2% 0;
+}
+
+h1{
+	font-family: 'Bilbo Swash Caps', cursive;
+	font-size:200%;
+	color: #970026;
+	font-weight: bold;
+	margin-bottom: 1%;
+	margin-top: 4%;
+
+}
+
+h2 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 135%;
+	color:#006f48;
+	background-color:#60d5ac;
+	padding: 1% 0 1% 0;
+}
+
+h3{
+	font-family: 'Calligraffitti', cursive;
+	font-size: 115%;
+	color:#970026;
+	font-weight: bold;
+	background-color: 
+}
+
+.description{
+	font-family: 'IM Fell Double Pica', serif;
+	font-size: 100%;
+	color:#ae2c4c;
+
+}
+
+
+
+}

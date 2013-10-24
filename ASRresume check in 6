@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="ASRstyle.css">
+<link href='http://fonts.googleapis.com/css?family=Bilbo+Swash+Caps' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+<div id="conatiner">
+
+	<header>
+		<h1>Amanda Rose</h1>
+		<ul class="contact-info">
+			<li>5000 Woodbine Ave Apt#412, Philadelphia, Pa, 19131 </li>
+			<li>amanda.rose@sju.edu</li>
+			<li>602.690.5569</li>
+		</ul>
+
+	</header>
+
+
+<section id="objective">
+	<h2>Objective</h2>
+	<p class="description">To secure a job within the Music Industry specializing in the communication and public relation aspects where I can use my writting, technology, and communication skills to their full potential.
+	</p>
+</section>
+
+<section id="education">
+<h2>Education</h2>
+
+<div>
+
+<h3>College</h3>
+<p class="description">Currently at Saint Joseph's University Class of '15</p>
+<p class="description">Pursuing a B.A in Communications Studies with a double minor in Music Industry and Advertising/ Promotions</p>
+</div>
+
+<div>
+	<h3>High School</h3>
+	<p class="description">Xavier College Prepatory</p>
+	<p class="description">Lettered 2 years on Swim Team. Was manager of the Swim team Senior year. Graduated with a 3.5 GPA</p>
+</div>
+
+</section>
+
+<section id="experience">
+
+<h2>Experience</h2>
+
+<div class="experience-section">
+	<h3>1851 Records</h3>
+<p class="description">Advertising & Promotion for 1851 records. In charge of organizing concerts, record label promotions, event planning, working with artists, and all other publicity.  
+</p>
+</div>
+
+<div class="experience-section">
+	<h3>Promotion for STRFKR</h3>
+	<p class="description">Hung up tour posters for the band STRFKR around the Phoenix Metropolitain area.
+	</p>
+</div>
+
+<div class="experience-section">
+	<h3>Publicity for Our Griffins</h3>
+	<p class="description">Helped promote the new and emerging band, Our Griffins. Found blogs to promote the band, researched record labels that would fit Our Griffin's style, and publicity through social media.</p>
+</div>
+
+<div class="experience-section">
+	<h3>Promotions for Stateside Presents</h3>
+	<p class="description">Passed out concert flyers at shows.</p>
+</div>
+<div class="experience-section">
+	<h3>The Art of Music Blog</h3>
+	<p class="description">Personal blog the explores the creative/ artistic elements found in music. i.e. Album art, Music Videos, Concert Posters, and much more. Promotes Art in Music.</p>
+</section>
+
+<section id="honors">
+	<h2>Honors, Awards, Memberships</h2>
+<ul>
+<li>2nd Place High School Art award</li>
+<li>Receipient of the Regis Scholars Grant</li>
+<li>Member of 1851 record label</li>
+</ul>
+
+</section>
+
+</div>
+
+
+</body>
