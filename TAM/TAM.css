@@ -1,11 +1,7 @@
 
 
-#crayvidsrec
-{
-	margin-top: 5;
-	float: left;
-	border-spacing: 0 2 0 2;
+#about{
+	<button type="button" class="btn.xs btn-link">
+	background-color: black;
+</button>
 }
-
-
-
