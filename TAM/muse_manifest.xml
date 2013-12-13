@@ -1,0 +1,18 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="index.css" crc="250624038" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="fuzzvid.jpg" crc="3790642852" mt="1386256292000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
+    <file name="museutils.js" crc="117816282" ref="index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="filmstrip.jpg" crc="458738880" ref="index"/>
+  </folder>
+  <file name="index.html" crc="99321782" mt="1386805197318" redirect="false"/>
+</manifest>

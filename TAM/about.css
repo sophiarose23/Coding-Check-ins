@@ -1,0 +1,17 @@
+body {background-image:url('aboutback.jpg');}
+
+.me{
+	float: right;
+	margin-top: ;
+}
+
+.description{
+	margin-top: 10%;
+	padding-left: 15%;
+	padding-right: 10%;
+	font-size: x-large;
+	font-family: 'Caudex', serif;
+	font-style: italic;
+	color: #FF3300;
+
+}
