@@ -1,0 +1,23 @@
+#table{
+	font-family: helvetica; 
+	background-color: #9999FF;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.head{
+	font-weight :bold;
+	font-family: sans-serif;
+	font-size: large;
+
+
+}
+
+h1{
+	background-color: #CC66CC;
+	padding-left: 30%;
+}
+
+th{
+	font-size: large;
+}

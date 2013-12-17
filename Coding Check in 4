@@ -6,6 +6,8 @@
  <meta charset="utf-8">
    <title>basicTable.html</title>
     <meta charset = "UTF-8" />
+    <link href="cci4.css" rel="stylesheet">
+
     <style type = "text/css">
     table, td, th {
       border: 1px solid black;
@@ -17,7 +19,7 @@
 <body>
 
 <h1>My Favorite Movies</h1>
-<table>
+<table id="table">
 <tr>
 	<th>Movie</th>
 	<th>Distributor</th>
